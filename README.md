@@ -1,2 +1,16 @@
 # Adventure-Plugin-Russian-Version-1.1
-Version 1.1
+Верссия 1.1
+
+Мы выпустили обновление на наш плагин!
+
+1.16.5 Плагин в ввиде мода 1.1
+
+Был добавлен демонический меч (demon_sword)
+Была изменена текстура Лук-батуна
+
+Добавлена 1 шапка:
+ 
+Беспроводные наушники
+
+https://github.com/bioRescue/Adventure-Plugin-Russia-Version 
+GitHub
