@@ -12,5 +12,4 @@
  
 Беспроводные наушники
 
-https://github.com/bioRescue/Adventure-Plugin-Russia-Version 
-GitHub
+Для работы нужен Optifine и верссия 1.16.5
